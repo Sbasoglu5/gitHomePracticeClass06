@@ -8,6 +8,6 @@ public class Main {
         PersonsInfo info=new PersonsInfo();
         info.name="Sezar";
         info.lastName="Basoglu";
-        info.address=Brooklyn/NY;
+        info.address="Brooklyn/NY";
     }
 }
